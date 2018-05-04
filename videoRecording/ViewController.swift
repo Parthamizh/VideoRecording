@@ -28,7 +28,7 @@ class ViewController: UIViewController,AVCaptureMetadataOutputObjectsDelegate, A
     var avPlayerLayer: AVPlayerLayer!
     var url = NSURL()
     var seconds: Int!
-    var durationTimer: Timer?
+    var durationTimer: Timer?  //Parthiban new commit
     /*var session: AVCaptureSession?
     var device: AVCaptureDevice?
     var input: AVCaptureDeviceInput?
